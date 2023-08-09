@@ -7,7 +7,7 @@ This program render a spaceship created in Blender into a rendering using CPP, S
 
 And this is the result of rendering a Spaceship made in blender:
 
-![SpaceShip](SpaceShip.png)
+![SpaceShip](StarFighter.png)
 
 ## Dependencies
 - SLD2: Library used to create windows and render graphics.
