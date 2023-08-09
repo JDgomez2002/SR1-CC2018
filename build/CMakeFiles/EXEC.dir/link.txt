@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/EXEC.dir/src/main.cpp.o -o EXEC  -L/usr/lib/x86_64-linux-gnu  -lSDL2 
